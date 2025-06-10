@@ -23,7 +23,6 @@ header nav{
   height: auto;
   background-color:#003b95;
   border-bottom: 5px solid #246edd;
-  padding: 1vw;
   display: flex;
   position: fixed;
   align-content: center;
@@ -44,8 +43,6 @@ header nav ul{
   width: 50%;
   height: 100%;
   display: flex;
-  justify-content: center;
-  align-content: center;
   margin: auto;
 }
 header nav ul li{
